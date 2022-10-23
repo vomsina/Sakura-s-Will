@@ -1,0 +1,44 @@
+{ "skeleton": { "images": "E:/ДА БЛЯТЬ Я НЕ МОГУ/Assets/Materials/Враги/Слизень/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Слой 8", "bone": "root", "attachment": "Слой 8" },
+	{ "name": "Слой 7", "bone": "root", "attachment": "Слой 7" },
+	{ "name": "Слой 6", "bone": "root", "attachment": "Слой 6" },
+	{ "name": "Слой 5", "bone": "root", "attachment": "Слой 5" },
+	{ "name": "Слой 4", "bone": "root", "attachment": "Слой 4" },
+	{ "name": "Слой 3", "bone": "root", "attachment": "Слой 3" },
+	{ "name": "голова", "bone": "root", "attachment": "голова" },
+	{ "name": "Слой 1", "bone": "root" }
+],
+"skins": {
+	"default": {
+		"Слой 8": {
+			"Слой 8": { "x": 1946, "y": -1279, "width": 1770, "height": 934 }
+		},
+		"Слой 7": {
+			"Слой 7": { "x": 2353, "y": -1582, "width": 512, "height": 448 }
+		},
+		"Слой 6": {
+			"Слой 6": { "x": 1913.5, "y": -1412.5, "width": 625, "height": 577 }
+		},
+		"Слой 5": {
+			"Слой 5": { "x": 1500, "y": -1187, "width": 876, "height": 858 }
+		},
+		"Слой 4": {
+			"Слой 4": { "x": 1157, "y": -1407.5, "width": 818, "height": 775 }
+		},
+		"Слой 3": {
+			"Слой 3": { "x": 908.5, "y": -1551, "width": 535, "height": 494 }
+		},
+		"голова": {
+			"голова": { "x": 610, "y": -1596, "width": 654, "height": 536 }
+		},
+		"Слой 1": {
+			"Слой 1": { "x": 1596.5, "y": -1240.5, "width": 2509, "height": 1311 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,36 @@
+{ "skeleton": { "images": "E:/ДА БЛЯТЬ Я НЕ МОГУ/Assets/Materials/Враги/Дура/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "дура", "bone": "root", "attachment": "дура" },
+	{ "name": "ногап", "bone": "root", "attachment": "ногап" },
+	{ "name": "ногал", "bone": "root", "attachment": "ногал" },
+	{ "name": "меч", "bone": "root", "attachment": "меч" },
+	{ "name": "рукап", "bone": "root", "attachment": "рукап" },
+	{ "name": "рукал", "bone": "root", "attachment": "рукал" }
+],
+"skins": {
+	"default": {
+		"дура": {
+			"дура": { "x": 1982, "y": -1378.5, "width": 1754, "height": 1395 }
+		},
+		"ногап": {
+			"ногап": { "x": 2388.5, "y": -2017, "width": 371, "height": 226 }
+		},
+		"ногал": {
+			"ногал": { "x": 1530, "y": -1984.5, "width": 404, "height": 211 }
+		},
+		"меч": {
+			"меч": { "x": 739.5, "y": -1579, "width": 1249, "height": 340 }
+		},
+		"рукап": {
+			"рукап": { "x": 2522.5, "y": -1780, "width": 215, "height": 210 }
+		},
+		"рукал": {
+			"рукал": { "x": 1378.5, "y": -1690, "width": 297, "height": 164 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
