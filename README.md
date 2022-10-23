@@ -1,6 +1,6 @@
 # Sakura's Will
 
-## Sakura's will is a simple little fantasy platform game. Author's graphics
+## Sakura's will is a simple little fantasy platform game. Author's graphics. C#, Unity
 
 ![Image alt](https://github.com/vomsina/Sakura-s-Will/blob/main/1.jpg)
 ![Image alt](https://github.com/vomsina/Sakura-s-Will/blob/main/2.jpg)
